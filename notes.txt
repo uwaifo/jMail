@@ -1,0 +1,7 @@
+1.create git repository
+
+2.add gitignore file and exclude modules
+
+3. run npm init to create package.json file.
+
+4. install express , create dir and file /server.js & src/app.js, 
